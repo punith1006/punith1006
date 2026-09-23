@@ -19,3 +19,6 @@ I am drawn to hard, high-leverage technical problems—the kind where standard t
 
 * **High-Throughput LLM Serving & Inference Engine**:  
   SetUp an optimized local model serving infrastructure using **vLLM** and **SGLang**, going well beyond stock deployments. Deep-dived into engine internals to optimize PagedAttention KV-cache management, configure continuous batching for high concurrency, and implement intelligent request routing—achieving a **~40% throughput increase** and significant token latency reductions over baseline serving setups.
+
+### 🤝 Let's Connect
+If your team or agency is building something ambitious and needs an engineer who moves fast, adapts without friction, and builds with rigor, feel free to reach out.
