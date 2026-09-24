@@ -12,7 +12,6 @@ I am drawn to hard, high-leverage technical problems—the kind where standard t
   Architected an automated B2B customer acquisition pipeline for SMBs using the **Google Agent Development Kit (ADK)**. Orchestrated multi-agent chains that conduct autonomous deep-web research, brand positioning analysis, competitor benchmarking, and demographic extraction to synthesize high-precision Ideal Customer Profiles (ICPs) and tailored outreach.
 
 * **High-Throughput LLM Serving & Inference Engine**:
-
   Setup an optimized local model serving infrastructure using vLLM and SGLang, going well beyond stock deployments. Understood the engine internals in detail and configured PagedAttention KV-cache management, continuous batching for high concurrency, and intelligent request routing for optimized inference—achieving a ~40% throughput increase and significant token latency reductions over baseline serving setups.  
 
 ### 🤝 Let's Connect
